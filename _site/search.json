@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "This page is a curated starting list of publications involving So.Sta. members. It can later be converted into a full bibliography or generated automatically from ORCID/Scopus.\n\n\n2026\n\n\nTemporal trends in cardiovascular disease and diabetes prevalence in the United States: assessing compression versus expansion\n\n\nArletti, A., Schiavon, L., Stival, M., Marzulli, M., Bertarelli, G., & Campostrini, S. Scientific Reports, 16, 17718.\n\n\nDOI →\n\n\n\n\n2026\n\n\nA Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys\n\n\nStival, M., Schiavon, L., & Campostrini, S. Journal of the Royal Statistical Society: Series A, 189(1), 222–241. First published online in 2024.\n\n\nDOI →\n\n\n\n\n2025\n\n\nAnalysis of multimorbidity compression using a latent variable in a mixed mixture model\n\n\nAndreella, A., Monasta, L., & Campostrini, S. Population Health Metrics, 23, 58.\n\n\nDOI →\n\n\n\n\n2025\n\n\nCosa rende una città a misura di anziani? Evidenze dal dataset AFCCQ-IT\n\n\nMarzulli, M., Bertani, M., & Pastore, A. Salute e Società, 2.\n\n\n\n\n2023\n\n\nWhen does morbidity start? An analysis of changes in morbidity between 2013 and 2019 in Italy\n\n\nPastore, A., Tonellato, S. F., Aliverti, E., & Campostrini, S. Statistical Methods & Applications, 32, 577–591.\n\n\nDOI →"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "So.Sta. is an interdisciplinary collaboration across statistics, social statistics and sociology. The profiles below link to each member’s personal or institutional webpage.\n\n\n\n\nSocial Statistics\n\n\nAngela Andreella\n\n\nCa’ Foscari University of Venice\n\n\nStatistical inference for complex and dependent data, resampling, multiple testing, mixed models and applications in health and social sciences.\n\n\n\n\n\n\n\nSocial Statistics\n\n\nGaia Bertarelli\n\n\nCa’ Foscari University of Venice\n\n\nSocial statistics, health data, small-area estimation and methods for complex population data.\n\n\n\n\n\n\n\nSocial Statistics\n\n\nMattia Stival\n\n\nCa’ Foscari University of Venice\n\n\nBayesian modelling, repeated cross-sectional surveys, spatial and temporal heterogeneity, public-health applications.\n\n\n\n\n\n\n\nStatistics\n\n\nLorenzo Schiavon\n\n\nUniversity of Padua\n\n\nBayesian statistics, latent-variable models, complex and high-dimensional data.\n\n\n\n\n\n\n\nSociology\n\n\nMichele Marzulli\n\n\nCa’ Foscari University of Venice\n\n\nSociology of welfare, public policy, health systems, social innovation and inequalities.\n\n\n\n\n\n\n\nSociology\n\n\nMichele Bertani\n\n\nCa’ Foscari University of Venice\n\n\nGeneral sociology, welfare, social policy and the study of complex social systems.\n\n\n\n\n\n\n\nSocial Statistics\n\n\nMarta Pittavino\n\n\nCa’ Foscari University of Venice\n\n\nApplied and social statistics, health and population data, statistical modelling and inference.\n\n\n\n\n\n\n\nSocial Statistics\n\n\nStefano Campostrini\n\n\nCa’ Foscari University of Venice\n\n\nPopulation health, surveillance systems, health inequalities, ageing and translation of statistical evidence into policy.\n\n\n\n\n\n\n\nStatistics & Public Health\n\n\nAlberto Arletti\n\n\nCa’ Foscari University of Venice\n\n\nStatistical modelling for population health, morbidity trends, data integration and public-health applications.\n\n\n\n\n\n\n\nStatistics\n\n\nStefano Tonellato\n\n\nCa’ Foscari University of Venice\n\n\nStatistical modelling, time series, computational statistics and complex data.\n\n\n\n\n\n\n\nStatistics\n\n\nAndrea Pastore\n\n\nCa’ Foscari University of Venice\n\n\nStatistical modelling and applied statistics, with work on health, ageing and morbidity.\n\n\n\n\n\n\n\n\n\nPhotos. The current package uses neutral placeholder portraits because no member headshots were provided. Replace the files in images/people/ with approved photos, keeping the same filenames, and the layout will update automatically."
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "APP\n\n\n\nInteractive tool\n\n\n\nA So.Sta. web application for exploring population-health prevalence curves and communicating complex model results to public-health audiences.\n\n\nOpen the Shiny app →\n\n\n\n\n\nPDF\n\n\n\nTeaching\n\n\n\nProgramme of the 6th Summer School in Social Statistics, focused on complex data in the social and health sciences.\n\n\nDownload PDF →\n\n\n\n\n\nPDF\n\n\n\nConference\n\n\n\nProgramme of the AISP intermediate conference on population, health and inequalities.\n\n\nDownload PDF →\n\n\n\n\n\nPPT\n\n\n\nSlides\n\n\n\nSlides presented by Stefano Campostrini at the AISP Intermediate Conference in Rome, 9 September 2026.\n\n\nDownload slides →"
+  },
+  {
+    "objectID": "materials.html#add-new-material",
+    "href": "materials.html#add-new-material",
+    "title": "Materials",
+    "section": "Add new material",
+    "text": "Add new material\nTo add teaching notes, code, slides or reports, copy the file into assets/materials/ and add a new card to this page in RStudio."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events & Conferences",
+    "section": "",
+    "text": "14–16 Sep 2026\n\n\n\n6th Summer School in Social Statistics\n\n\n\nSo.Sta. participation includes Stefano Campostrini, Angela Andreella, Mattia Stival, Marta Pittavino and Gaia Bertarelli, with sessions on complex models, GLMs, PASSI, GLMMs and methods beyond GLMMs.\n\n\nDownload the programme"
+  },
+  {
+    "objectID": "events.html#upcoming",
+    "href": "events.html#upcoming",
+    "title": "Events & Conferences",
+    "section": "",
+    "text": "14–16 Sep 2026\n\n\n\n6th Summer School in Social Statistics\n\n\n\nSo.Sta. participation includes Stefano Campostrini, Angela Andreella, Mattia Stival, Marta Pittavino and Gaia Bertarelli, with sessions on complex models, GLMs, PASSI, GLMMs and methods beyond GLMMs.\n\n\nDownload the programme"
+  },
+  {
+    "objectID": "events.html#past",
+    "href": "events.html#past",
+    "title": "Events & Conferences",
+    "section": "Past",
+    "text": "Past\n\n\n\n9 Sep 2026\n\n\n\nAISP Intermediate Conference · Rome\n\n\nPopulation and health: inequalities in mortality and morbidity\n\n\nGaia Bertarelli took part in the institutional opening. Stefano Campostrini presented Compressione della morbilità e salute globale, while Mattia Stival presented Salute e ambiente: i fattori che influenzano la consapevolezza pubblica.\n\n\nConference programme · Campostrini slides\n\n\n\n\n\n22–25 Jun 2026\n\n\n\nSIS–FENStatS 2026\n\n\nStatistical Science: From Theory to Applied Research\n\n\nGroup members contributed work on census-calibrated small-domain prevalence estimation and related statistical methods."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "So.Sta. — Social Statistics",
+    "section": "",
+    "text": "Social Statistics Research Group\n\n\nSo.Sta. brings together statisticians, social statisticians and sociologists working on complex social and health data. We develop and apply quantitative methods to study population health, ageing, inequalities, welfare, environmental determinants and the translation of evidence into policy.\n\n\nSo.Sta. stands for Social Statistics. In Italian, sosta also means a pause: a reminder to stop, look closely at the data, and think before acting.\n\n\nMeet the teamExplore our projects\n\n\n\n\n\n\n\nSo.Sta.\n\n\nobserveunderstandact\n\n\nInterdisciplinary methods for complex social and health questions."
+  },
+  {
+    "objectID": "index.html#our-team",
+    "href": "index.html#our-team",
+    "title": "So.Sta. — Social Statistics",
+    "section": "Our team",
+    "text": "Our team\n\n\n\n\n\nAngela Andreella\n\n\nSocial Statistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nGaia Bertarelli\n\n\nSocial Statistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nMattia Stival\n\n\nSocial Statistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nLorenzo Schiavon\n\n\nStatistics\n\n\nUniversity of Padua\n\n\n\n\n\n\n\nMichele Marzulli\n\n\nSociology\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nMichele Bertani\n\n\nSociology\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nMarta Pittavino\n\n\nSocial Statistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nStefano Campostrini\n\n\nSocial Statistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nAlberto Arletti\n\n\nStatistics & Public Health\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nStefano Tonellato\n\n\nStatistics\n\n\nCa’ Foscari University of Venice\n\n\n\n\n\n\n\nAndrea Pastore\n\n\nStatistics\n\n\nCa’ Foscari University of Venice"
+  },
+  {
+    "objectID": "index.html#what-we-work-on",
+    "href": "index.html#what-we-work-on",
+    "title": "So.Sta. — Social Statistics",
+    "section": "What we work on",
+    "text": "What we work on\n\n\n\nMethods\n\n\nComplex data & inference\n\n\nModels and inferential tools for dependent, hierarchical, high-dimensional and heterogeneous data, with an emphasis on valid and interpretable inference.\n\n\n\n\nApplications\n\n\nPopulation health & inequalities\n\n\nAgeing, morbidity and multimorbidity, health surveillance, territorial and socioeconomic inequalities, and environmental determinants of health.\n\n\n\n\nImpact\n\n\nEvidence into action\n\n\nCommunication tools, accessible statistical outputs and interdisciplinary work designed to support public-health stakeholders and policy decisions.\n\n\n\n\n\n\n\n\n\n\nCurrent project\n\n\nPLANET4HEALTH\n\n\nSo.Sta. members contribute to the Horizon Europe project connecting environmental and climate science, public health and social science to support evidence-based planetary-health policy.\n\n\nRead more →\n\n\n\n\n\n\n\nOur home\n\n\nBased at Ca’ Foscari University of Venice\n\n\nSo.Sta. is primarily rooted at Ca’ Foscari, while keeping an open collaborative network across institutions and disciplines.\n\n\n  Università Ca’ Foscari Venezia"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "14 Sep 2026\n\n\n\nUpcoming\n\n\nSo.Sta. at the 6th Summer School in Social Statistics\n\n\nMembers of the group will contribute to the programme on complex data in the social and health sciences, including sessions on GLMs, GLMMs, PASSI and marginal/resampling approaches.\n\n\nSee the event →\n\n\n\n\n\n9 Sep 2026\n\n\n\nConference\n\n\nSo.Sta. at the AISP Intermediate Conference in Rome\n\n\nThe group contributed to sessions on morbidity compression, population health and environmental-health awareness.\n\n\nSee details →\n\n\n\n\n\n9 Jun 2026\n\n\n\nPublication\n\n\nNew Scientific Reports paper on morbidity trends in the United States\n\n\nAlberto Arletti, Lorenzo Schiavon, Mattia Stival, Michele Marzulli, Gaia Bertarelli and Stefano Campostrini published work on cardiovascular disease and diabetes prevalence trends.\n\n\nRead the paper →"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Active · 2024–2027\n\n\n\nTranslating Science into Policy: A Multisectoral Approach to Adaptation and Mitigation of Adverse Effects of Vector-Borne Diseases, Environmental Pollution and Climate Change on Planetary Health.\n\n\nPLANET4HEALTH is a Horizon Europe project developing knowledge, data and tools on how environmental degradation affects human, animal and ecosystem health. The project connects environmental and climate science, public health, epidemiology and social sciences, with a strong focus on translating evidence into policy.\n\n\nProject website\n\n\n\n\nPast · 2023–2025\n\n\n\nAgeing Well in an Ageing Society.\n\n\nAge-It is a national extended partnership on ageing that brings together demographic, biomedical, technological, economic and social perspectives. Its goal is to support an inclusive society for all ages and to make Italy a leading research hub on ageing.\n\n\nProject website"
+  },
+  {
+    "objectID": "projects.html#themes-connecting-our-projects",
+    "href": "projects.html#themes-connecting-our-projects",
+    "title": "Projects",
+    "section": "Themes connecting our projects",
+    "text": "Themes connecting our projects\n\n\n\nHealthy ageing\n\n\nMorbidity compression, multimorbidity, life-course trajectories and social inequalities in ageing.\n\n\n\n\nEnvironment & health\n\n\nEnvironmental exposures, climate stressors, public awareness and planetary-health evidence.\n\n\n\n\nMethods for public decisions\n\n\nStatistical modelling, uncertainty quantification and communication tools for policy-relevant evidence."
+  }
+]

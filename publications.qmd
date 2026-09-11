@@ -1,0 +1,15 @@
+---
+title: "Selected Publications"
+---
+
+This page is a curated starting list of publications involving So.Sta. members. It can later be converted into a full bibliography or generated automatically from ORCID/Scopus.
+
+<div class="pub"><div class="year">2026</div><h3>Temporal trends in cardiovascular disease and diabetes prevalence in the United States: assessing compression versus expansion</h3><p>Arletti, A., Schiavon, L., Stival, M., Marzulli, M., Bertarelli, G., & Campostrini, S. <em>Scientific Reports</em>, 16, 17718.</p><p><a href="https://doi.org/10.1038/s41598-026-48747-1" target="_blank">DOI →</a></p></div>
+
+<div class="pub"><div class="year">2026</div><h3>A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys</h3><p>Stival, M., Schiavon, L., & Campostrini, S. <em>Journal of the Royal Statistical Society: Series A</em>, 189(1), 222–241. First published online in 2024.</p><p><a href="https://doi.org/10.1093/jrsssa/qnae138" target="_blank">DOI →</a></p></div>
+
+<div class="pub"><div class="year">2025</div><h3>Analysis of multimorbidity compression using a latent variable in a mixed mixture model</h3><p>Andreella, A., Monasta, L., & Campostrini, S. <em>Population Health Metrics</em>, 23, 58.</p><p><a href="https://doi.org/10.1186/s12963-025-00421-w" target="_blank">DOI →</a></p></div>
+
+<div class="pub"><div class="year">2025</div><h3>Cosa rende una città a misura di anziani? Evidenze dal dataset AFCCQ-IT</h3><p>Marzulli, M., Bertani, M., & Pastore, A. <em>Salute e Società</em>, 2.</p></div>
+
+<div class="pub"><div class="year">2023</div><h3>When does morbidity start? An analysis of changes in morbidity between 2013 and 2019 in Italy</h3><p>Pastore, A., Tonellato, S. F., Aliverti, E., & Campostrini, S. <em>Statistical Methods & Applications</em>, 32, 577–591.</p><p><a href="https://doi.org/10.1007/s10260-022-00668-9" target="_blank">DOI →</a></p></div>

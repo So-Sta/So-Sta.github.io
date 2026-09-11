@@ -1,0 +1,46 @@
+---
+title: "So.Sta. — Social Statistics"
+page-layout: full
+---
+
+<div class="hero">
+<div>
+<span class="kicker">Social Statistics Research Group</span>
+<h1>Statistics, society, health.</h1>
+<p class="lead">So.Sta. brings together statisticians, social statisticians and sociologists working on complex social and health data. We develop and apply quantitative methods to study population health, ageing, inequalities, welfare, environmental determinants and the translation of evidence into policy.</p>
+<p class="name-story"><strong>So.Sta.</strong> stands for <em>Social Statistics</em>. In Italian, <em>sosta</em> also means a pause: a reminder to stop, look closely at the data, and think before acting.</p>
+<div class="actions"><a class="btn primary" href="people.qmd">Meet the team</a><a class="btn secondary" href="projects.qmd">Explore our projects</a></div>
+</div>
+<div class="hero-art hero-reflect" aria-hidden="true">
+<div class="pause-symbol"><span></span><span></span></div>
+<div class="reflect-word">So.Sta.</div>
+<div class="reflect-flow"><span>observe</span><i></i><span>understand</span><i></i><span>act</span></div>
+<div class="label">Interdisciplinary methods for complex social and health questions.</div>
+</div>
+</div>
+
+## Our team
+
+<div class="grid people"><article class="card person-card"><img src="images/people/angela-andreella.png" alt="Placeholder portrait for Angela Andreella"><div class="body"><h3><a href="https://angeella.github.io/" target="_blank" rel="noopener">Angela Andreella</a></h3><div class="pill">Social Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/gaia-bertarelli.png" alt="Placeholder portrait for Gaia Bertarelli"><div class="body"><h3><a href="https://www.unive.it/people/gaia.bertarelli" target="_blank" rel="noopener">Gaia Bertarelli</a></h3><div class="pill">Social Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/mattia-stival.png" alt="Placeholder portrait for Mattia Stival"><div class="body"><h3><a href="https://sites.google.com/view/stivalmat/" target="_blank" rel="noopener">Mattia Stival</a></h3><div class="pill">Social Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/lorenzo-schiavon.png" alt="Placeholder portrait for Lorenzo Schiavon"><div class="body"><h3><a href="https://lorenzo-schiavon.github.io/" target="_blank" rel="noopener">Lorenzo Schiavon</a></h3><div class="pill">Statistics</div><div class="meta">University of Padua</div></div></article><article class="card person-card"><img src="images/people/michele-marzulli.png" alt="Placeholder portrait for Michele Marzulli"><div class="body"><h3><a href="https://www.unive.it/people/michele.marzulli" target="_blank" rel="noopener">Michele Marzulli</a></h3><div class="pill">Sociology</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/michele-bertani.png" alt="Placeholder portrait for Michele Bertani"><div class="body"><h3><a href="https://www.unive.it/people/michele.bertani" target="_blank" rel="noopener">Michele Bertani</a></h3><div class="pill">Sociology</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/marta-pittavino.png" alt="Placeholder portrait for Marta Pittavino"><div class="body"><h3><a href="https://www.unive.it/people/marta.pittavino" target="_blank" rel="noopener">Marta Pittavino</a></h3><div class="pill">Social Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/stefano-campostrini.png" alt="Placeholder portrait for Stefano Campostrini"><div class="body"><h3><a href="https://www.unive.it/people/stefano.campostrini" target="_blank" rel="noopener">Stefano Campostrini</a></h3><div class="pill">Social Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/alberto-arletti.png" alt="Placeholder portrait for Alberto Arletti"><div class="body"><h3><a href="https://www.unive.it/people/alberto.arletti" target="_blank" rel="noopener">Alberto Arletti</a></h3><div class="pill">Statistics &amp; Public Health</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/stefano-tonellato.png" alt="Placeholder portrait for Stefano Tonellato"><div class="body"><h3><a href="https://www.unive.it/people/stone" target="_blank" rel="noopener">Stefano Tonellato</a></h3><div class="pill">Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article><article class="card person-card"><img src="images/people/andrea-pastore.png" alt="Placeholder portrait for Andrea Pastore"><div class="body"><h3><a href="https://www.unive.it/people/pastore" target="_blank" rel="noopener">Andrea Pastore</a></h3><div class="pill">Statistics</div><div class="meta">Ca’ Foscari University of Venice</div></div></article></div>
+
+## What we work on
+
+<div class="grid three">
+<div class="card"><div class="eyebrow">Methods</div><h3>Complex data & inference</h3><p>Models and inferential tools for dependent, hierarchical, high-dimensional and heterogeneous data, with an emphasis on valid and interpretable inference.</p></div>
+<div class="card"><div class="eyebrow">Applications</div><h3>Population health & inequalities</h3><p>Ageing, morbidity and multimorbidity, health surveillance, territorial and socioeconomic inequalities, and environmental determinants of health.</p></div>
+<div class="card"><div class="eyebrow">Impact</div><h3>Evidence into action</h3><p>Communication tools, accessible statistical outputs and interdisciplinary work designed to support public-health stakeholders and policy decisions.</p></div>
+</div>
+
+<div class="callout section"><div class="eyebrow">Current project</div><h2>PLANET4HEALTH</h2><p>So.Sta. members contribute to the Horizon Europe project connecting environmental and climate science, public health and social science to support evidence-based planetary-health policy.</p><p><a href="projects.qmd">Read more →</a></p></div>
+<div class="institution section">
+<div class="institution-copy">
+<div class="eyebrow">Our home</div>
+<h2>Based at Ca’ Foscari University of Venice</h2>
+<p>So.Sta. is primarily rooted at Ca’ Foscari, while keeping an open collaborative network across institutions and disciplines.</p>
+</div>
+<a class="cafoscari-lockup" href="https://www.unive.it/" target="_blank" rel="noopener" aria-label="Ca’ Foscari University of Venice">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Universit%C3%A0_Ca%27_Foscari_Venezia.svg" alt="Università Ca’ Foscari Venezia logo">
+<span>Università Ca’ Foscari Venezia</span>
+</a>
+</div>
+

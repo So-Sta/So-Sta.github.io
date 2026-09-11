@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "So.Sta. | Social Statistics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: projects.qmd
+        text: Projects
+      - href: events.qmd
+        text: Events
+      - href: materials.qmd
+        text: Materials
+      - href: publications.qmd
+        text: Publications
+      - href: news.qmd
+        text: News
+  page-footer:
+    left: "So.Sta. — Social Statistics Research Group"
+    right: "Ca' Foscari University of Venice · University of Padua"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

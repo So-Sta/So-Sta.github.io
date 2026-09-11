@@ -1,0 +1,16 @@
+---
+title: "Events & Conferences"
+---
+
+## Upcoming
+
+<div class="timeline">
+<div class="event"><div class="date">14–16 Sep 2026</div><div><div class="eyebrow">6th Summer School in Social Statistics</div><h3>Complex data in the social and health sciences</h3><p>So.Sta. participation includes Stefano Campostrini, Angela Andreella, Mattia Stival, Marta Pittavino and Gaia Bertarelli, with sessions on complex models, GLMs, PASSI, GLMMs and methods beyond GLMMs.</p><p><a href="assets/materials/summer-school-social-statistics-2026-program.pdf">Download the programme</a></p></div></div>
+</div>
+
+## Past
+
+<div class="timeline">
+<div class="event"><div class="date">9 Sep 2026</div><div><div class="eyebrow">AISP Intermediate Conference · Rome</div><h3>Population and health: inequalities in mortality and morbidity</h3><p>Gaia Bertarelli took part in the institutional opening. Stefano Campostrini presented <em>Compressione della morbilità e salute globale</em>, while Mattia Stival presented <em>Salute e ambiente: i fattori che influenzano la consapevolezza pubblica</em>.</p><p><a href="assets/materials/aisp-intermediate-conference-2026-program.pdf">Conference programme</a> · <a href="assets/materials/campostrini-compression-morbidity-aisp-2026.pptx">Campostrini slides</a></p></div></div>
+<div class="event"><div class="date">22–25 Jun 2026</div><div><div class="eyebrow">SIS–FENStatS 2026</div><h3>Statistical Science: From Theory to Applied Research</h3><p>Group members contributed work on census-calibrated small-domain prevalence estimation and related statistical methods.</p></div></div>
+</div>

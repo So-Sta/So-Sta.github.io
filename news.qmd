@@ -1,0 +1,9 @@
+---
+title: "News"
+---
+
+<div class="timeline">
+<div class="event"><div class="date">14 Sep 2026</div><div><div class="eyebrow">Upcoming</div><h3>So.Sta. at the 6th Summer School in Social Statistics</h3><p>Members of the group will contribute to the programme on complex data in the social and health sciences, including sessions on GLMs, GLMMs, PASSI and marginal/resampling approaches.</p><p><a href="events.qmd">See the event →</a></p></div></div>
+<div class="event"><div class="date">9 Sep 2026</div><div><div class="eyebrow">Conference</div><h3>So.Sta. at the AISP Intermediate Conference in Rome</h3><p>The group contributed to sessions on morbidity compression, population health and environmental-health awareness.</p><p><a href="events.qmd">See details →</a></p></div></div>
+<div class="event"><div class="date">9 Jun 2026</div><div><div class="eyebrow">Publication</div><h3>New Scientific Reports paper on morbidity trends in the United States</h3><p>Alberto Arletti, Lorenzo Schiavon, Mattia Stival, Michele Marzulli, Gaia Bertarelli and Stefano Campostrini published work on cardiovascular disease and diabetes prevalence trends.</p><p><a href="https://doi.org/10.1038/s41598-026-48747-1" target="_blank">Read the paper →</a></p></div></div>
+</div>

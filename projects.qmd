@@ -1,0 +1,16 @@
+---
+title: "Projects"
+---
+
+<div class="grid two">
+<div class="card"><div class="eyebrow">Active · 2024–2027</div><h2>PLANET4HEALTH</h2><p><strong>Translating Science into Policy: A Multisectoral Approach to Adaptation and Mitigation of Adverse Effects of Vector-Borne Diseases, Environmental Pollution and Climate Change on Planetary Health.</strong></p><p>PLANET4HEALTH is a Horizon Europe project developing knowledge, data and tools on how environmental degradation affects human, animal and ecosystem health. The project connects environmental and climate science, public health, epidemiology and social sciences, with a strong focus on translating evidence into policy.</p><p><a class="btn secondary" href="https://planet4health.eu/" target="_blank">Project website</a></p></div>
+<div class="card"><div class="eyebrow">Past · 2023–2025</div><h2>Age-It</h2><p><strong>Ageing Well in an Ageing Society.</strong></p><p>Age-It is a national extended partnership on ageing that brings together demographic, biomedical, technological, economic and social perspectives. Its goal is to support an inclusive society for all ages and to make Italy a leading research hub on ageing.</p><p><a class="btn secondary" href="https://ageit.eu/wp/en/" target="_blank">Project website</a></p></div>
+</div>
+
+## Themes connecting our projects
+
+<div class="grid three">
+<div class="card"><h3>Healthy ageing</h3><p>Morbidity compression, multimorbidity, life-course trajectories and social inequalities in ageing.</p></div>
+<div class="card"><h3>Environment & health</h3><p>Environmental exposures, climate stressors, public awareness and planetary-health evidence.</p></div>
+<div class="card"><h3>Methods for public decisions</h3><p>Statistical modelling, uncertainty quantification and communication tools for policy-relevant evidence.</p></div>
+</div>
