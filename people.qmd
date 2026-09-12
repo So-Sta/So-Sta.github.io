@@ -4,6 +4,112 @@ title: "People"
 
 So.Sta. is an interdisciplinary collaboration across statistics, social statistics and sociology. The profiles below link to each member’s personal or institutional webpage.
 
-<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/angela-andreella.png" alt="Placeholder portrait for Angela Andreella" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Social Statistics</div><h3 style="margin:.15em 0"><a href="https://angeella.github.io/" target="_blank">Angela Andreella</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Statistical inference for complex and dependent data, resampling, multiple testing, mixed models and applications in health and social sciences.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/gaia-bertarelli.png" alt="Placeholder portrait for Gaia Bertarelli" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Social Statistics</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/gaia.bertarelli" target="_blank">Gaia Bertarelli</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Social statistics, health data, small-area estimation and methods for complex population data.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/mattia-stival.png" alt="Placeholder portrait for Mattia Stival" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Social Statistics</div><h3 style="margin:.15em 0"><a href="https://sites.google.com/view/stivalmat/" target="_blank">Mattia Stival</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Bayesian modelling, repeated cross-sectional surveys, spatial and temporal heterogeneity, public-health applications.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/lorenzo-schiavon.png" alt="Placeholder portrait for Lorenzo Schiavon" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Statistics</div><h3 style="margin:.15em 0"><a href="https://lorenzo-schiavon.github.io/" target="_blank">Lorenzo Schiavon</a></h3><div class="meta">University of Padua</div><p>Bayesian statistics, latent-variable models, complex and high-dimensional data.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/michele-marzulli.png" alt="Placeholder portrait for Michele Marzulli" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Sociology</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/michele.marzulli" target="_blank">Michele Marzulli</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Sociology of welfare, public policy, health systems, social innovation and inequalities.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/michele-bertani.png" alt="Placeholder portrait for Michele Bertani" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Sociology</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/michele.bertani" target="_blank">Michele Bertani</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>General sociology, welfare, social policy and the study of complex social systems.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/marta-pittavino.png" alt="Placeholder portrait for Marta Pittavino" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Social Statistics</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/marta.pittavino" target="_blank">Marta Pittavino</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Applied and social statistics, health and population data, statistical modelling and inference.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/stefano-campostrini.png" alt="Placeholder portrait for Stefano Campostrini" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Social Statistics</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/stefano.campostrini" target="_blank">Stefano Campostrini</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Population health, surveillance systems, health inequalities, ageing and translation of statistical evidence into policy.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/alberto-arletti.png" alt="Placeholder portrait for Alberto Arletti" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Statistics & Public Health</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/alberto.arletti" target="_blank">Alberto Arletti</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Statistical modelling for population health, morbidity trends, data integration and public-health applications.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/stefano-tonellato.png" alt="Placeholder portrait for Stefano Tonellato" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Statistics</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/stone" target="_blank">Stefano Tonellato</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Statistical modelling, time series, computational statistics and complex data.</p></div></article><article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center"><img src="images/people/andrea-pastore.png" alt="Placeholder portrait for Andrea Pastore" style="width:140px;height:140px;object-fit:cover;border-radius:16px"><div><div class="eyebrow">Statistics</div><h3 style="margin:.15em 0"><a href="https://www.unive.it/people/pastore" target="_blank">Andrea Pastore</a></h3><div class="meta">Ca’ Foscari University of Venice</div><p>Statistical modelling and applied statistics, with work on health, ageing and morbidity.</p></div></article>
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/angela-andreella.png" alt="Placeholder portrait for Angela Andreella" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://angeella.github.io/" target="_blank">Angela Andreella</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Statistical inference for complex and dependent data, resampling, multiple testing, mixed models and applications in health and social sciences.</p>
+</div>
+</article>
 
-<div class="callout"><strong>Photos.</strong> The current package uses neutral placeholder portraits because no member headshots were provided. Replace the files in <code>images/people/</code> with approved photos, keeping the same filenames, and the layout will update automatically.</div>
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/alberto-arletti.png" alt="Placeholder portrait for Alberto Arletti" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/alberto.arletti" target="_blank">Alberto Arletti</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Statistical modelling for population health, morbidity trends, data integration and public-health applications.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/michele-bertani.png" alt="Placeholder portrait for Michele Bertani" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Sociology</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/michele.bertani" target="_blank">Michele Bertani</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>General sociology, welfare, social policy and the study of complex social systems.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/gaia-bertarelli.png" alt="Placeholder portrait for Gaia Bertarelli" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/gaia.bertarelli" target="_blank">Gaia Bertarelli</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Social statistics, health data, small-area estimation and methods for complex population data.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/stefano-campostrini.png" alt="Placeholder portrait for Stefano Campostrini" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/stefano.campostrini" target="_blank">Stefano Campostrini</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Population health, surveillance systems, health inequalities, ageing and translation of statistical evidence into policy.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/michele-marzulli.png" alt="Placeholder portrait for Michele Marzulli" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Sociology</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/michele.marzulli" target="_blank">Michele Marzulli</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Sociology of welfare, public policy, health systems, social innovation and inequalities.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/andrea-pastore.png" alt="Placeholder portrait for Andrea Pastore" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/pastore" target="_blank">Andrea Pastore</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Statistical modelling and applied statistics, with work on health, ageing and morbidity.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/marta-pittavino.png" alt="Placeholder portrait for Marta Pittavino" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/marta.pittavino" target="_blank">Marta Pittavino</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Applied and social statistics, health and population data, statistical modelling and inference.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/lorenzo-schiavon.png" alt="Placeholder portrait for Lorenzo Schiavon" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://lorenzo-schiavon.github.io/" target="_blank">Lorenzo Schiavon</a></h3>
+<div class="meta">University of Padua</div>
+<p>Bayesian statistics, latent-variable models, complex and high-dimensional data.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/mattia-stival.png" alt="Placeholder portrait for Mattia Stival" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Social Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://sites.google.com/view/stivalmat/" target="_blank">Mattia Stival</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Bayesian modelling, repeated cross-sectional surveys, spatial and temporal heterogeneity, public-health applications.</p>
+</div>
+</article>
+
+<article class="card" style="margin:18px 0;display:grid;grid-template-columns:140px 1fr;gap:22px;align-items:center">
+<img src="images/people/stefano-tonellato.png" alt="Placeholder portrait for Stefano Tonellato" style="width:140px;height:140px;object-fit:cover;border-radius:16px">
+<div>
+<div class="eyebrow">Statistics</div>
+<h3 style="margin:.15em 0"><a href="https://www.unive.it/people/stone" target="_blank">Stefano Tonellato</a></h3>
+<div class="meta">Ca’ Foscari University of Venice</div>
+<p>Statistical modelling, time series, computational statistics and complex data.</p>
+</div>
+</article>

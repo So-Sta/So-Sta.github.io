@@ -2,14 +2,130 @@
 title: "Selected Publications"
 ---
 
-This page is a curated starting list of publications involving So.Sta. members. It can later be converted into a full bibliography or generated automatically from ORCID/Scopus.
+This page collects publications co-authored by at least two members of the So.Sta. group, highlighting the collaborative research developed across sociology, statistics, social statistics, public health and social policy.
 
-<div class="pub"><div class="year">2026</div><h3>Temporal trends in cardiovascular disease and diabetes prevalence in the United States: assessing compression versus expansion</h3><p>Arletti, A., Schiavon, L., Stival, M., Marzulli, M., Bertarelli, G., & Campostrini, S. <em>Scientific Reports</em>, 16, 17718.</p><p><a href="https://doi.org/10.1038/s41598-026-48747-1" target="_blank">DOI →</a></p></div>
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>Modeling Heterogeneity in Health Risk Behaviors With a Dynamic Mixture Model Informed by Textual Occupational Data</h3>
+  <p>Schiavon, L., Stival, M., Andreella, A., & Campostrini, S. <em>Statistics in Medicine</em>, 45(18–19), e70691.</p>
+  <p><a href="https://doi.org/10.1002/sim.70691" target="_blank">DOI →</a></p>
+</div>
 
-<div class="pub"><div class="year">2026</div><h3>A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys</h3><p>Stival, M., Schiavon, L., & Campostrini, S. <em>Journal of the Royal Statistical Society: Series A</em>, 189(1), 222–241. First published online in 2024.</p><p><a href="https://doi.org/10.1093/jrsssa/qnae138" target="_blank">DOI →</a></p></div>
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>Temporal trends in cardiovascular disease and diabetes prevalence in the United States: assessing compression versus expansion</h3>
+  <p>Arletti, A., Schiavon, L., Stival, M., Marzulli, M., Bertarelli, G., & Campostrini, S. <em>Scientific Reports</em>, 16, 17718.</p>
+  <p><a href="https://doi.org/10.1038/s41598-026-48747-1" target="_blank">DOI →</a></p>
+</div>
 
-<div class="pub"><div class="year">2025</div><h3>Analysis of multimorbidity compression using a latent variable in a mixed mixture model</h3><p>Andreella, A., Monasta, L., & Campostrini, S. <em>Population Health Metrics</em>, 23, 58.</p><p><a href="https://doi.org/10.1186/s12963-025-00421-w" target="_blank">DOI →</a></p></div>
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys</h3>
+  <p>Stival, M., Schiavon, L., & Campostrini, S. <em>Journal of the Royal Statistical Society: Series A</em>, 189(1), 222–241.</p>
+  <p><a href="https://doi.org/10.1093/jrsssa/qnae138" target="_blank">DOI →</a></p>
+</div>
 
-<div class="pub"><div class="year">2025</div><h3>Cosa rende una città a misura di anziani? Evidenze dal dataset AFCCQ-IT</h3><p>Marzulli, M., Bertani, M., & Pastore, A. <em>Salute e Società</em>, 2.</p></div>
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>Le politiche per la promozione dell’invecchiamento sano e attivo</h3>
+  <p>Artusio, V., Balduzzi, G., Balduzzi, R., Beccaria, F., Berta, P., <strong>Bertani, M.</strong>, <strong>Campostrini, S.</strong>, et al., including <strong>Marzulli, M.</strong> <em>Epidemiologia & Prevenzione</em>, 49, 4–21.</p>
+  <p><a href="https://doi.org/10.19191/EP25.5-6.S1.004" target="_blank">DOI →</a></p>
+</div>
 
-<div class="pub"><div class="year">2023</div><h3>When does morbidity start? An analysis of changes in morbidity between 2013 and 2019 in Italy</h3><p>Pastore, A., Tonellato, S. F., Aliverti, E., & Campostrini, S. <em>Statistical Methods & Applications</em>, 32, 577–591.</p><p><a href="https://doi.org/10.1007/s10260-022-00668-9" target="_blank">DOI →</a></p></div>
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>Integrating Gender Diversity in Well-Being Policies: A Review of Institutional Literature</h3>
+  <p>Cavazza, A., Dal Mas, F., Bertarelli, G., & Campostrini, S. In <em>Art, Culture and Made in Italy. Gender Perspectives in the Contemporary World</em>. Springer, pp. 285–296.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>A Flexible AI Framework for Census Calibrated Small Domain Prevalence Estimation</h3>
+  <p>Arletti, A., Schiavon, L., Stival, M., Bertarelli, G., & Campostrini, S. In <em>Statistical Science: From Theory to Applied Research II. SIS-FENStatS 2026</em>. Springer, pp. 119–124.</p>
+  <p><a href="https://doi.org/10.1007/978-3-032-30877-1_20" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2026</div>
+  <h3>Functional Inference for Assimilation Effects: Evidence from Migrants’ Mental Health in Italy</h3>
+  <p>Pittavino, M., Andreella, A., Bertarelli, G., & Campostrini, S. In <em>Statistical Science: From Theory to Applied Research IV. SIS-FENStatS 2026</em>. Springer, pp. 280–286.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2025</div>
+  <h3>Analysis of multimorbidity compression using a latent variable in a mixed mixture model</h3>
+  <p>Andreella, A., Monasta, L., & Campostrini, S. <em>Population Health Metrics</em>, 23, 58.</p>
+  <p><a href="https://doi.org/10.1186/s12963-025-00421-w" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2025</div>
+  <h3>Cosa rende una città a misura di anziani? Evidenze dal dataset AFCCQ-IT</h3>
+  <p>Marzulli, M., Bertani, M., & Pastore, A. <em>Salute e Società</em>, 24(2), 36–48.</p>
+  <p><a href="https://doi.org/10.3280/SES2025-002004" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2025</div>
+  <h3>Prevenzione personalizzata per l’invecchiamento sano. Nuove politiche per promuovere autonomia e benessere nella popolazione anziana</h3>
+  <p>Bertani, M., Catalano, A., Marzulli, M., Marzullo, P., Costelli, P., de Benedetto, E., Russo Spena, T., & Ricceri, F. <em>Epidemiologia & Prevenzione</em>, 49.</p>
+  <p><a href="https://doi.org/10.19191/EP25.5-6.S1.004" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2024</div>
+  <h3>Spatial clusters for demand and supply of early childhood education and care services in Italy</h3>
+  <p>Andreella, A., Aliverti, E., Caldura, F., & Campostrini, S. <em>Socio-Economic Planning Sciences</em>, 95, 102034.</p>
+  <p><a href="https://doi.org/10.1016/j.seps.2024.102034" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2024</div>
+  <h3>A two-step approach to analyze the inclusivity distribution in childcare services in Italy</h3>
+  <p>Andreella, A., Bertarelli, G., Caldura, F., & Campostrini, S. In <em>Methodological and Applied Statistics and Demography III</em>. Springer.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2024</div>
+  <h3>Work realities and behavioral risk factors in Italy</h3>
+  <p>Andreella, A., & Campostrini, S. In <em>Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)</em>.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2024</div>
+  <h3>How older residents experience the Age-friendliness of Venice. Insights from a quantitative study</h3>
+  <p>Bertani, M., Marzulli, M., & Pastore, A. <em>Working Paper</em>, Ca’ Foscari University of Venice.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2023</div>
+  <h3>A novel comorbidity index in Italy based on diseases detected by the surveillance system PASSI and the Global Burden of Diseases disability weights</h3>
+  <p>Andreella, A., Monasta, L., & Campostrini, S. <em>Population Health Metrics</em>, 21, 18.</p>
+  <p><a href="https://doi.org/10.1186/s12963-023-00317-7" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2023</div>
+  <h3>When does morbidity start? An analysis of changes in morbidity between 2013 and 2019 in Italy</h3>
+  <p>Pastore, A., Tonellato, S. F., Aliverti, E., & Campostrini, S. <em>Statistical Methods & Applications</em>, 32, 577–591.</p>
+  <p><a href="https://doi.org/10.1007/s10260-022-00668-9" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2023</div>
+  <h3>Mattia Stival and Lorenzo Schiavon’s contribution to the Discussion of “Flexible marked spatio-temporal point processes with applications to event sequences from association football”</h3>
+  <p>Stival, M., & Schiavon, L. <em>Journal of the Royal Statistical Society: Series C</em>, 72(5), 1132–1133.</p>
+  <p><a href="https://doi.org/10.1093/jrsssc/qlad068" target="_blank">DOI →</a></p>
+</div>
+
+<div class="pub">
+  <div class="year">2023</div>
+  <h3>A novel definition of comorbidity based on the Global Burden of Diseases project weights</h3>
+  <p>Andreella, A., Monasta, L., & Campostrini, S. In <em>Book of the Short Papers: Statistical Learning, Sustainability and Impact Evaluation</em>, pp. 566–571.</p>
+</div>
+
+<div class="pub">
+  <div class="year">2023</div>
+  <h3>Suitable statistical approaches for novel policies: spatial clusters of childcare’s services in Veneto, Italy</h3>
+  <p>Andreella, A., & Campostrini, S. In <em>Proceedings of the 5th International Conference on Advanced Research Methods and Analytics (CARMA 2023)</em>.</p>
+</div>

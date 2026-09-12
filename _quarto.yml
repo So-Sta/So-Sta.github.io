@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "So.Sta. | Social Statistics"
+  title: "So.Sta. | Sociologists Statisticians"
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +21,7 @@ website:
       - href: news.qmd
         text: News
   page-footer:
-    left: "So.Sta. — Social Statistics Research Group"
+    left: "So.Sta. — Sociologists Statisticians Team"
     right: "Ca' Foscari University of Venice · University of Padua"
 
 format:
