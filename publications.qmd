@@ -2,7 +2,6 @@
 title: "Selected Publications"
 ---
 
-This page collects publications co-authored by at least two members of the So.Sta. group, highlighting the collaborative research developed across sociology, statistics, social statistics, public health and social policy.
 
 <div class="pub">
   <div class="year">2026</div>
