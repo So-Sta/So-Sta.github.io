@@ -1,0 +1,149 @@
+---
+title: "Research Bites"
+page-layout: full
+---
+
+<div class="bites-intro">
+  <span class="kicker">Research, one bite at a time</span>
+  <h1>What do our data tell us?</h1>
+  <p class="lead">
+    Short stories from So.Sta. research. One question, one visual, one result worth pausing for.
+  </p>
+</div>
+
+
+<!-- BITE 1 -->
+
+<article class="research-bite">
+
+<div class="bite-text">
+
+<div class="bite-meta">HEALTH · AGEING · 2026</div>
+
+<h2>Are we living longer — but sicker?</h2>
+
+<p class="bite-hook">
+Longer life does not automatically mean healthier life.
+</p>
+
+<p>
+Using US data on cardiovascular disease and diabetes, we investigated whether morbidity is being postponed to older ages — the so-called <em>compression of morbidity</em> — or whether chronic disease is expanding across the life course.
+</p>
+
+<p>
+The analysis looks beyond average trends, showing how trajectories differ across generations and social groups. The result is a more nuanced picture: improvements in longevity need to be evaluated together with inequalities in health, income and risk factors.
+</p>
+
+<p class="takeaway">
+<strong>Take-home message:</strong> adding years to life is not enough. The real challenge is adding healthy years.
+</p>
+
+<a class="bite-link"
+href="https://doi.org/10.1038/s41598-026-48747-1"
+target="_blank">Read the paper →</a>
+
+</div>
+
+<div class="bite-visual">
+<img src="images/bites/cvd-diabetes.png"
+alt="Age and cohort trends in cardiovascular disease and diabetes">
+<div class="bite-caption">
+How disease prevalence changes across age and birth cohorts.
+</div>
+</div>
+
+</article>
+
+
+<!-- BITE 2 -->
+
+<article class="research-bite reverse">
+
+<div class="bite-text">
+
+<div class="bite-meta">MULTIMORBIDITY · 2025</div>
+
+<h2>Not all chronic diseases weigh the same.</h2>
+
+<p class="bite-hook">
+Counting diseases is easy. Understanding their burden is harder.
+</p>
+
+<p>
+Multimorbidity is often measured simply by counting how many chronic conditions a person has. But diabetes, cancer and respiratory disease do not have the same impact on health.
+</p>
+
+<p>
+Our work proposes a latent-variable approach that treats multimorbidity as a multidimensional phenomenon, allowing diseases to contribute differently to an individual’s overall health burden.
+</p>
+
+<p>
+This makes it possible to study whether the burden of multimorbidity is shifting towards older ages — and whether that process differs across socioeconomic groups.
+</p>
+
+<p class="takeaway">
+<strong>Take-home message:</strong> multimorbidity is more than a disease count.
+</p>
+
+<a class="bite-link"
+href="https://doi.org/10.1186/s12963-025-00421-w"
+target="_blank">Read the paper →</a>
+
+</div>
+
+<div class="bite-visual">
+<img src="images/bites/multimorbidity.png"
+alt="Multimorbidity patterns across age and social groups">
+<div class="bite-caption">
+A multidimensional view of chronic disease burden.
+</div>
+</div>
+
+</article>
+
+
+<!-- BITE 3 -->
+
+<article class="research-bite">
+
+<div class="bite-text">
+
+<div class="bite-meta">MORBIDITY · ITALY · 2023</div>
+
+<h2>When does morbidity really start?</h2>
+
+<p class="bite-hook">
+There is no single age at which people suddenly become “old”.
+</p>
+
+<p>
+Instead of defining ageing using a fixed threshold, we studied how the probability of having a chronic condition changes continuously with age.
+</p>
+
+<p>
+Using Italian health-surveillance data, the analysis compares morbidity curves across time and socioeconomic groups. This allows us to ask not only whether morbidity is becoming more or less common, but also whether its onset is shifting to later ages.
+</p>
+
+<p>
+The curves also reveal persistent inequalities: healthier ageing does not occur in the same way for everyone.
+</p>
+
+<p class="takeaway">
+<strong>Take-home message:</strong> the onset of morbidity is a process, not a birthday.
+</p>
+
+<a class="bite-link"
+href="https://doi.org/10.1007/s10260-022-00668-9"
+target="_blank">Read the paper →</a>
+
+</div>
+
+<div class="bite-visual">
+<img src="images/bites/morbidity-curves.png"
+alt="Estimated morbidity curves by age and socioeconomic group">
+<div class="bite-caption">
+Age-specific morbidity curves reveal when health begins to deteriorate.
+</div>
+</div>
+
+</article>

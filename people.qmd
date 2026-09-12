@@ -89,7 +89,7 @@ So.Sta. is an interdisciplinary collaboration across statistics, social statisti
 <div>
 <div class="eyebrow">Statistics</div>
 <h3 style="margin:.15em 0"><a href="https://lorenzo-schiavon.github.io/" target="_blank">Lorenzo Schiavon</a></h3>
-<div class="meta">University of Padua</div>
+<div class="meta">University of Padova</div>
 <p>Bayesian statistics, latent-variable models, complex and high-dimensional data.</p>
 </div>
 </article>

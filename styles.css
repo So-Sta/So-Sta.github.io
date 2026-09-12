@@ -57,3 +57,91 @@ footer{border-top:1px solid var(--line);padding:30px 24px;color:var(--muted);fon
 .cafoscari-lockup img{display:block;width:76px;height:96px;object-fit:contain}
 .cafoscari-lockup span{font-weight:800;max-width:180px;line-height:1.15;font-size:1.02rem}
 @media(max-width:900px){.institution{grid-template-columns:1fr}.cafoscari-lockup{justify-self:start}.reflect-flow{top:140px}}
+
+.bites-intro {
+  max-width: 900px;
+  margin: 3rem auto 5rem auto;
+  text-align: center;
+}
+
+.research-bite {
+  max-width: 1200px;
+  margin: 0 auto 6rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1.05fr;
+  gap: 4rem;
+  align-items: center;
+  padding: 2.5rem;
+  border-radius: 26px;
+  background: #f8f7f4;
+}
+
+.research-bite.reverse .bite-text {
+  order: 2;
+}
+
+.research-bite.reverse .bite-visual {
+  order: 1;
+}
+
+.bite-meta {
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  font-size: .76rem;
+  font-weight: 700;
+  opacity: .65;
+  margin-bottom: .7rem;
+}
+
+.research-bite h2 {
+  font-size: clamp(2rem, 4vw, 3.3rem);
+  line-height: 1.05;
+  margin-bottom: 1rem;
+}
+
+.bite-hook {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.takeaway {
+  margin-top: 1.4rem;
+  padding-left: 1rem;
+  border-left: 4px solid #9e1b32;
+}
+
+.bite-visual img {
+  width: 100%;
+  border-radius: 18px;
+  background: white;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08);
+}
+
+.bite-caption {
+  font-size: .85rem;
+  opacity: .65;
+  margin-top: .6rem;
+}
+
+.bite-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media (max-width: 800px) {
+
+  .research-bite {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 1.4rem;
+  }
+
+  .research-bite.reverse .bite-text,
+  .research-bite.reverse .bite-visual {
+    order: initial;
+  }
+
+}

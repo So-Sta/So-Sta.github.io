@@ -4,6 +4,7 @@ project:
 
 website:
   title: "So.Sta. | Sociologists Statisticians"
+
   navbar:
     left:
       - href: index.qmd
@@ -12,14 +13,17 @@ website:
         text: People
       - href: projects.qmd
         text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: research-bites.qmd
+        text: Research Bites
       - href: events.qmd
         text: Events
       - href: materials.qmd
         text: Materials
-      - href: publications.qmd
-        text: Publications
       - href: news.qmd
         text: News
+
   page-footer:
     left: "So.Sta. — Sociologists Statisticians Team"
     right: "Ca' Foscari University of Venice · University of Padua"
