@@ -74,14 +74,14 @@
     "href": "materials.html",
     "title": "Materials",
     "section": "",
-    "text": "APP\n\n\n\nInteractive tool\n\n\n\nA So.Sta. web application for exploring population-health prevalence curves and communicating complex model results to public-health audiences.\n\n\nOpen the Shiny app →\n\n\n\n\n\nPDF\n\n\n\nTeaching\n\n\n\nProgramme of the 6th Summer School in Social Statistics, focused on complex data in the social and health sciences.\n\n\nDownload PDF →\n\n\n\n\n\nPDF\n\n\n\nConference\n\n\n\nProgramme of the AISP intermediate conference on population, health and inequalities.\n\n\nDownload PDF →\n\n\n\n\n\nPPT\n\n\n\nSlides\n\n\n\nSlides presented by Stefano Campostrini at the AISP Intermediate Conference in Rome, 9 September 2026.\n\n\nDownload slides →"
+    "text": "APP\n\n\n\nInteractive tool\n\n\n\nA So.Sta. web application for exploring population-health prevalence curves and communicating complex model results to public-health audiences.\n\n\nOpen the Shiny app →\n\n\n\n\n\nPDF\n\n\n\nTeaching\n\n\n\nMaterials of the 6th Summer School in Social Statistics, focused on complex data in the social and health sciences.\n\n\nWhen and how GLMs fail (Angela Andreella) →\n\n\n Introducing PASSI (Mattia Stival and Marta Pittavino) →\n\n\n GLMMs: Modeling Heterogeneity and Dependence (Gaia Bertarelli) →\n\n\nBeyond GLMMs (Angela Andreella) →\n\n\n\n\n\nPDF\n\n\n\nConference\n\n\n\nProgramme of the AISP intermediate conference on population, health and inequalities.\n\n\nDownload PDF →\n\n\n\n\n\nTo add teaching notes, code, slides or reports, copy the file into assets/materials/ and add a new card to this page in RStudio."
   },
   {
     "objectID": "materials.html#add-new-material",
     "href": "materials.html#add-new-material",
     "title": "Materials",
-    "section": "Add new material",
-    "text": "Add new material\nTo add teaching notes, code, slides or reports, copy the file into assets/materials/ and add a new card to this page in RStudio."
+    "section": "",
+    "text": "To add teaching notes, code, slides or reports, copy the file into assets/materials/ and add a new card to this page in RStudio."
   },
   {
     "objectID": "people.html",
