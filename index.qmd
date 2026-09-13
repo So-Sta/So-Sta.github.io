@@ -5,10 +5,10 @@ page-layout: full
 
 <div class="hero">
 <div>
-<span class="kicker">Sociologists Statisticians Team</span>
+<span class="kicker">Sociologists and Statisticians Team</span>
 <h1>Statistics, society, health.</h1>
 <p class="lead">So.Sta. brings together statisticians, social statisticians and sociologists working on complex social and health problem We develop and apply quantitative methods to study population health, ageing, inequalities, welfare, environmental determinants and the translation of evidence into policy.</p>
-<p class="name-story"><strong>So.Sta.</strong> stands for <em>Sociologists + Statisticians</em>. <em>So sta</em> in Venetian, <em>sosta</em> in Italian: a name about being there, stopping, and looking closer. <strong>Stop. Look closer. Think better.</strong></p>
+<p class="name-story"><strong>So.Sta.</strong> stands for <em>Sociologists + Statisticians</em>. <em>So sta</em> in Venetian, <em>sosta</em> in Italian: a name about being there, stopping, and looking closer. <strong>Stop and Think</strong></p>
 <div class="actions"><a class="btn primary" href="people.qmd">Meet the team</a><a class="btn secondary" href="projects.qmd">Explore our projects</a></div>
 </div>
 <div class="hero-art hero-reflect" aria-hidden="true">

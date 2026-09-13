@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "So.Sta. | Sociologists Statisticians"
+  title: "So.Sta. | Sociologists and Statisticians"
 
   navbar:
     left:
@@ -25,8 +25,8 @@ website:
         text: News
 
   page-footer:
-    left: "So.Sta. — Sociologists Statisticians Team"
-    right: "Ca' Foscari University of Venice · University of Padua"
+    left: "So.Sta. — Sociologists and Statisticians Team"
+    right: "Ca' Foscari University of Venice · University of Padova"
 
 format:
   html:
