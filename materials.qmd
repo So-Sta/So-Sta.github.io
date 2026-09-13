@@ -11,6 +11,6 @@ title: "Materials"
 
 
 
-## Add new material
+<!-- ## Add new material -->
 
-To add teaching notes, code, slides or reports, copy the file into <code>assets/materials/</code> and add a new card to this page in RStudio.
+<!-- To add teaching notes, code, slides or reports, copy the file into <code>assets/materials/</code> and add a new card to this page in RStudio. -->
