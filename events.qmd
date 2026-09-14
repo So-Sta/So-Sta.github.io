@@ -5,7 +5,7 @@ title: "Events & Conferences"
 ## Upcoming
 
 <div class="timeline">
-<div class="event"><div class="date">14–16 Sep 2026</div><div><div class="eyebrow">6th Summer School in Social Statistics</div><h3>Complex data in the social and health sciences</h3><p>So.Sta. participation includes Stefano Campostrini, Angela Andreella, Mattia Stival, Marta Pittavino and Gaia Bertarelli, with sessions on complex models, GLMs, PASSI, GLMMs and methods beyond GLMMs.</p><p><a href="assets/materials/summer-school-social-statistics-2026-program.pdf">Download the programme</a></p></div></div>
+<div class="event"><div class="date">14–16 Sep 2026</div><div><div class="eyebrow">6th Summer School in Social Statistics</div><h3>Complex data in the social and health sciences</h3><p>So.Sta. participation includes Stefano Campostrini, Angela Andreella, Mattia Stival, Marta Pittavino and Gaia Bertarelli, with sessions on complex models, GLMs, PASSI, GLMMs and methods beyond GLMMs.</p><p><a href="https://sites.unica.it/socstats6/6th-summer-school-in-social-statistics/">Program</a></p><p><a href="materials.qmd">Materials</a></p></div></div>
 </div>
 
 ## Past
